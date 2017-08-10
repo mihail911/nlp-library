@@ -18,6 +18,8 @@ Some special designations for certain papers:
 * (2015) [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf) :vhs:
 
 ## Machine Translation
+* (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf)
+* (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 
 ## Semantic Parsing
 
@@ -26,6 +28,10 @@ Some special designations for certain papers:
 ## Natural Language Generation
 
 ## Dialogue Systems
+* (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
 * (2016) [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023) :bulb:
 * (2017) [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)
 * (2017) [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414)
+
+## Theory
+* (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
