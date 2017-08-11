@@ -28,6 +28,8 @@ Some special designations for certain papers:
 
 ## Natural Logic/Inference
 * (2007) [Natural Logic for Textual Inference](https://nlp.stanford.edu/pubs/natlog-wtep07.pdf)
+* (2008) [An Extended Model of Natural Logic](dl.acm.org/citation.cfm?id=1693772)
+* (2014) [Recursive Neural Networks Can Learn Logical Semantics](https://arxiv.org/abs/1406.1827)
 * (2015) [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf) :vhs:
 
 ## Machine Translation
@@ -37,7 +39,8 @@ Some special designations for certain papers:
 
 ## Semantic Parsing
 
-## Question Answering
+## Question Answering/Reading Comprehension
+* (2016) [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task](https://arxiv.org/abs/1606.02858)
 
 ## Natural Language Generation
 
@@ -48,6 +51,7 @@ Some special designations for certain papers:
 * (2017) [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414) :vhs:
 
 ## Interactive Learning
+* (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
