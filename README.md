@@ -34,21 +34,25 @@ Some special designations for certain papers:
 
 ## Machine Translation
 * (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf)
+* (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
+* (2016) [Pointing the Unknown Works](www.aclweb.org/anthology/P16-1014)
 
 ## Semantic Parsing
 
 ## Question Answering/Reading Comprehension
 * (2016) [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task](https://arxiv.org/abs/1606.02858)
 
-## Natural Language Generation
+## Natural Language Generation/Summarization
+* (2016) [Pointing the Unknown Works](www.aclweb.org/anthology/P16-1014)
 
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
 * (2016) [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023) :bulb:
 * (2017) [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)
 * (2017) [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414) :vhs:
+
 
 ## Interactive Learning
 * (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
