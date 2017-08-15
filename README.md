@@ -1,7 +1,7 @@
 # nlp-library
 This is a curated list of papers that I have encountered in some capacity and deem worth including in the NLP practitioner's library. Some papers may appear in multiple sub-categories, if they don't fit easily into one of the boxes.
 
-This is a work-in-progress so **PRs absolutely welcome!**
+This is a work-in-progress so **PRs are absolutely welcome!**
 
 Some special designations for certain papers:
 
