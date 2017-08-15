@@ -60,8 +60,10 @@ Some special designations for certain papers:
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
 * (2016) [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023) :bulb:
+* (2016) [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562)
 * (2017) [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)
 * (2017) [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414) :vhs:
+* (2017) [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
 
 ## Interactive Learning
 * (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
