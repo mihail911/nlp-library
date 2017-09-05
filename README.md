@@ -37,7 +37,9 @@ Some special designations for certain papers:
 * (2015) [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf) :vhs:
 
 ## Machine Translation
+* (1993) [The Mathematics of Statistical Machine Translation](www.aclweb.org/anthology/J93-2003) :bulb:
 * (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf)
+* (2003) [Statistical Phrase-Based Translation](http://dl.acm.org/citation.cfm?id=1073462)
 * (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
@@ -75,4 +77,5 @@ Some special designations for certain papers:
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
+* (2003) [A Neural Probabilistic Language Model](www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
