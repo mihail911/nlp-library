@@ -27,7 +27,7 @@ Some special designations for certain papers:
 * (2015) [Entity-Centric Coreference Resolution with Model Stacking](http://cs.stanford.edu/~kevclark/resources/clark-manning-acl15-entity.pdf) 
 
 ## Sentiment Analysis
-* (2012) [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](www.aclweb.org/anthology/P12-2018)
+* (2012) [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://www.aclweb.org/anthology/P12-2018)
 * (2013) [Recursive deep models for semantic compositionality over a sentiment treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) :vhs:
 
 ## Natural Logic/Inference
