@@ -57,7 +57,7 @@ Some special designations for certain papers:
 
 ## Natural Language Generation/Summarization
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
-* (2016) [Pointing the Unknown Words](www.aclweb.org/anthology/P16-1014)
+* (2016) [Pointing the Unknown Words](https://arxiv.org/abs/1603.08148)
 
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
