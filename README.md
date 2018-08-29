@@ -80,3 +80,4 @@ Some special designations for certain papers:
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
 * (2003) [A Neural Probabilistic Language Model](www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
+* (2018) [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) :bulb: :vhs:
