@@ -44,6 +44,7 @@ Some special designations for certain papers:
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 * (2016) [Pointing the Unknown Words](www.aclweb.org/anthology/P16-1014)
+* (2016) [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 
 ## Semantic Parsing
 * (2013) [Semantic Parsing on Freebase from Question-Answer Pairs](www.aclweb.org/anthology/D13-1160) :bulb: :vhs:
@@ -76,8 +77,14 @@ Some special designations for certain papers:
 * (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
 * (2017) [Naturalizing a programming language via interactive learning](https://arxiv.org/abs/1704.06956)
 
+## Language Modelling
+* (2014) [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://arxiv.org/abs/1312.3005) :vhs:
+* (2015) [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
+* (2016) [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410)
+* (2018) [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) :bulb: :vhs:
+
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
 * (2003) [A Neural Probabilistic Language Model](www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
-* (2018) [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) :bulb: :vhs:
+
