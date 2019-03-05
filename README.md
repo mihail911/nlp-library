@@ -11,6 +11,7 @@ Some special designations for certain papers:
 
 
 ## Part-of-speech Tagging
+* (2000) [A Statistical Part-of-Speech Tagger](https://arxiv.org/pdf/cs/0003055.pdf)
 * (2003) [Feature-rich part-of-speech tagging with a cyclic dependency network](https://nlp.stanford.edu/pubs/tagging.pdf)
 * (2015) [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991)
 
