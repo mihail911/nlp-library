@@ -80,6 +80,7 @@ Some special designations for certain papers:
 * (2017) [Naturalizing a programming language via interactive learning](https://arxiv.org/abs/1704.06956)
 
 ## Language Modelling
+* (2003) [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
 * (2014) [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://arxiv.org/abs/1312.3005) :vhs:
 * (2015) [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
 * (2016) [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410)
@@ -87,6 +88,6 @@ Some special designations for certain papers:
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
-* (2003) [A Neural Probabilistic Language Model](www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
+* (2012) [An Introduction to Conditional Random Fields](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
 
