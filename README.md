@@ -90,4 +90,4 @@ Some special designations for certain papers:
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
 * (2012) [An Introduction to Conditional Random Fields](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
-
+* (2014) [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) 
