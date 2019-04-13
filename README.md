@@ -88,6 +88,7 @@ Some special designations for certain papers:
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
+* (2000) [Maximum Entropy Markov Models for Information Extraction and Segmentation](https://www.seas.upenn.edu/~strctlrn/bib/PDF/memm-icml2000.pdf) :bulb:
 * (2010) [From Frequency to Meaning: Vector Space Models of Semantics](https://arxiv.org/pdf/1003.1141.pdf)
 * (2012) [An Introduction to Conditional Random Fields](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
