@@ -59,6 +59,7 @@ Some special designations for certain papers:
 * (2017) [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250) :vhs:
 
 ## Natural Language Generation/Summarization
+* (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013)
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
 * (2016) [Pointing the Unknown Words](https://arxiv.org/abs/1603.08148)
 * (2017) [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
