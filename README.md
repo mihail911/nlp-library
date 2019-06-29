@@ -76,6 +76,7 @@ Some special designations for certain papers:
 * (2017) [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
 
 ## Interactive Learning
+* (1971) [Procedures as a Representation for Data in a Computer Program for Understanding Natural Language](http://hci.stanford.edu/~winograd/shrdlu/AITR-235.pdf)
 * (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
 * (2017) [Naturalizing a programming language via interactive learning](https://arxiv.org/abs/1704.06956)
 
