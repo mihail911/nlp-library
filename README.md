@@ -80,6 +80,7 @@ Some special designations for certain papers:
 * (2017) [Naturalizing a programming language via interactive learning](https://arxiv.org/abs/1704.06956)
 
 ## Language Modelling
+* (1996) [An Empirical Study of Smoothing Techniques for Language Modelling](https://aclweb.org/anthology/P96-1041)
 * (2003) [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
 * (2014) [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://arxiv.org/abs/1312.3005) :vhs:
 * (2015) [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
