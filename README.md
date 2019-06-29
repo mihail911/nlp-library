@@ -41,6 +41,7 @@ Some special designations for certain papers:
 * (1993) [The Mathematics of Statistical Machine Translation](www.aclweb.org/anthology/J93-2003) :bulb:
 * (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf) :vhs:
 * (2003) [Statistical Phrase-Based Translation](http://dl.acm.org/citation.cfm?id=1073462)
+* (2011) [Statistical Machine Translation: IBM Models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)
 * (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
