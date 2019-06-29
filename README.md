@@ -39,7 +39,7 @@ Some special designations for certain papers:
 
 ## Machine Translation
 * (1993) [The Mathematics of Statistical Machine Translation](www.aclweb.org/anthology/J93-2003) :bulb:
-* (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf)
+* (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf) :vhs:
 * (2003) [Statistical Phrase-Based Translation](http://dl.acm.org/citation.cfm?id=1073462)
 * (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
@@ -59,7 +59,7 @@ Some special designations for certain papers:
 * (2017) [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250) :vhs:
 
 ## Natural Language Generation/Summarization
-* (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013)
+* (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013) :vhs:
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
 * (2016) [Pointing the Unknown Words](https://arxiv.org/abs/1603.08148)
 * (2017) [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
