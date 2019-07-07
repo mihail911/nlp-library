@@ -12,16 +12,23 @@ Some special designations for certain papers:
 
 ## Part-of-speech Tagging
 * (2000) [A Statistical Part-of-Speech Tagger](https://arxiv.org/pdf/cs/0003055.pdf)
+  - **TLDR**: Seminal paper demonstrating a powerful HMM-based POS tagger. Many tips and tricks for building such classical systems included. 
 * (2003) [Feature-rich part-of-speech tagging with a cyclic dependency network](https://nlp.stanford.edu/pubs/tagging.pdf)
+  - **TLDR**: Proposes a number of powerful linguistic features for building a (then) SOTA POS-tagging system
 * (2015) [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991)
+  - **TLDR**: Proposes an element sequence-tagging model combining neural networks with conditional random fields, achieving SOTA in POS-tagging, NER, and chunking. 
 
 ## Parsing
 * (2003) [Accurate unlexicalized parsing](https://people.eecs.berkeley.edu/~klein/papers/unlexicalized-parsing.pdf) :bulb:
+  - **TLDR**: Beautiful paper demonstrating that unlexicalized probabilistic context free grammars can exceed the performance of lexicalized PCFGs.
 * (2014) [A Fast and Accurate Dependency Parser using Neural Networks](cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
+  - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
 
 ## Named Entity Recognition
 * (2005) [Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling](http://nlp.stanford.edu/~manning/papers/gibbscrf3.pdf)
+  - **TLDR**: Using cool Monte Carlo methods combined with a conditional random field model, this work achieves a huge error reduction in certain information extraction benchmarks.
 * (2015) [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991)
+  - **TLDR**: Proposes an element sequence-tagging model combining neural networks with conditional random fields, achieving SOTA in POS-tagging, NER, and chunking. 
 
 ## Coference Resolution
 * (2010) [A multi-pass sieve for coreference resolution](https://nlp.stanford.edu/pubs/conllst2011-coref.pdf) :bulb:
