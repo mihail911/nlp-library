@@ -30,7 +30,7 @@ Some special designations for certain papers:
 * (2015) [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991)
   - **TLDR**: Proposes an element sequence-tagging model combining neural networks with conditional random fields, achieving SOTA in POS-tagging, NER, and chunking. 
 
-## Coference Resolution
+## Coreference Resolution
 * (2010) [A multi-pass sieve for coreference resolution](https://nlp.stanford.edu/pubs/conllst2011-coref.pdf) :bulb:
   - **TLDR**: Proposes a sieve-based approach to coreference resolution that for many years (until deep learning approaches) was SOTA.
 * (2015) [Entity-Centric Coreference Resolution with Model Stacking](http://cs.stanford.edu/~kevclark/resources/clark-manning-acl15-entity.pdf) 
