@@ -64,27 +64,41 @@ Some special designations for certain papers:
 * (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
   - **TLDR**: Introduces the sequence-to-sequence neural network architecture. While only applied to MT in this paper, it has since become one of the cornerstone architectures of modern natural language processing. 
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
+  - **TLDR**: Extends previous sequence-to-sequence architectures for MT by using the attention mechanism, a powerful tool for allowing a target word to softly search for important signal from the source sentence. 
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
+  - **TLDR**: Introduces two new attention mechanisms for MT, using them to achieve SOTA over existing neural MT systems.
 * (2016) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf)
+  - **TLDR**: Introduces byte pair encoding, an effective technique for allowing neural MT systems to handle (more) open-vocabulary translation.
 * (2016) [Pointing the Unknown Words](www.aclweb.org/anthology/P16-1014)
+  - **TLDR**: Proposes a copy-mechanism for allowing MT systems to more effectively copy words from a source context sequence.
 * (2016) [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) 
   - **TLDR**: A wonderful case-study demonstrating what a production-capacity machine translation system (in this case that of Google) looks like. 
 
 ## Semantic Parsing
 * (2013) [Semantic Parsing on Freebase from Question-Answer Pairs](www.aclweb.org/anthology/D13-1160) :bulb: :vhs:
+  - **TLDR**: Proposes an elegant technique for semantic parsing that learns directly from question-answer pairs, without the need for annotated logical forms, allowing the system to scale up to Freebase. 
 * (2014) [Semantic Parsing via Paraphrasing](http://aclweb.org/anthology/P14-1133)
+  - **TLDR**: Develops a unique paraphrase model for learning appropriate candidate logical forms from question-answer pairs, improving SOTA on existing Q/A datasets. 
 * (2015) [Building a Semantic Parser Overnight](https://cs.stanford.edu/~pliang/papers/overnight-acl2015.pdf) :vhs:
+  - **TLDR**: Neat paper showing that a semantic parser can be built from scratch starting with no training examples!
 * (2015) [Bringing Machine Learning and Computational Semantics Together](http://www.stanford.edu/~cgpotts/manuscripts/liang-potts-semantics.pdf)
+  - **TLDR**: A nice overview of a computational semantics framework that uses machine learning to effectively learn logical forms for semantic parsing. 
 
 ## Question Answering/Reading Comprehension
 * (2016) [A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task](https://arxiv.org/abs/1606.02858)
+  - **TLDR**: A great wake-up call paper, demonstrating that SOTA performance can be achieved on certain reading comprehension datasets using simple systems with carefully chosen features. Don't forget non-deep learning methods!
 * (2017) [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250) :vhs:
+  - **TLDR**: Introduces the SQUAD dataset, a question-answering corpus that has become one of the defacto benchmarks used today. 
 
 ## Natural Language Generation/Summarization
 * (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013) :vhs:
+  - **TLDR**: Introduces ROUGE, an evaluation metric for summarization that is used to this day on a variety of sequence transduction tasks. 
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
+  - **TLDR**: Proposes a neural natural language generator that jointly optimises sentence planning and surface realization, outperforming other systems on human eval. 
 * (2016) [Pointing the Unknown Words](https://arxiv.org/abs/1603.08148)
+  - **TLDR**: Proposes a copy-mechanism for allowing MT systems to more effectively copy words from a source context sequence.
 * (2017) [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
+  - **TLDR**: This work offers an elegant soft copy mechanism, that drastically outperforms the SOTA on abstractive summarization. 
 
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
@@ -100,8 +114,11 @@ Some special designations for certain papers:
 
 ## Interactive Learning
 * (1971) [Procedures as a Representation for Data in a Computer Program for Understanding Natural Language](http://hci.stanford.edu/~winograd/shrdlu/AITR-235.pdf)
+  - **TLDR**: One of the seminal papers in computer science, introducing SHRDLU an early system for computers understanding human language commands. 
 * (2016) [Learning language games through interaction](http://arxiv.org/abs/1606.02447)
+  - **TLDR**: Introduces a novel setting for interacting with computers to accomplish a task where only natural language can be used to communicate with the system!
 * (2017) [Naturalizing a programming language via interactive learning](https://arxiv.org/abs/1704.06956)
+  - **TLDR**: Very cool work allowing a community of workers to iteratively naturalize a language starting with a core set of commands in an interactive task. 
 
 ## Language Modelling
 * (1996) [An Empirical Study of Smoothing Techniques for Language Modelling](https://aclweb.org/anthology/P96-1041)
