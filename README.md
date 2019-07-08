@@ -102,15 +102,25 @@ Some special designations for certain papers:
 
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
+  - **TLDR**: Proposes using phrase-based statistical machine translation methods to the problem of response generation. 
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
+  - **TLDR**: Proposes a neural natural language generator that jointly optimises sentence planning and surface realization, outperforming other systems on human eval.
 * (2016) [How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023) :bulb:
+  - **TLDR**: Important work demonstrating that existing automatic metrics used for dialogue woefully do not correlate well with human judgment. 
 * (2016) [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562)
+  - **TLDR**: Proposes a neat architecture for decomposing a dialogue system into a number of individually-trained neural network components. 
 * (2016) [A Diversity-Promoting Objective Function for Neural Conversation Models](https://arxiv.org/abs/1510.03055)
+  - **TLDR**: Introduces a maximum mutual information objective function for training dialogue systems. 
 * (2016) [The Dialogue State Tracking Challenge Series: A Review](https://pdfs.semanticscholar.org/4ba3/39bd571585fadb1fb1d14ef902b6784f574f.pdf)
+  - **TLDR**: A nice overview of the dialogue state tracking challenges for dialogue systems. 
 * (2017) [A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue](https://arxiv.org/abs/1701.04024)
+  - **TLDR**: Shows that simple sequence-to-sequence architectures with a copy mechanism can perform competitively on existing task-oriented dialogue datasets. 
 * (2017) [Key-Value Retrieval Networks for Task-Oriented Dialogue](https://arxiv.org/abs/1705.05414) :vhs:
+  - **TLDR**: Introduces a new multidomain dataset for task-oriented dataset as well as an architecture for softly incorporating information from structured knowledge bases into dialogue systems. 
 * (2017) [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/abs/1704.07130) :vhs:
+  - **TLDR**: Introduces a new collaborative dialogue dataset, as well as an architecture for representing structured knowledge via knowledge graph embeddings. 
 * (2017) [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning](https://arxiv.org/abs/1702.03274)
+  - **TLDR**: Introduces a hybrid dialogue architecture that can be jointly trained via supervised learning as well as reinforcement learning and combines neural network techniques with fine-grained rule-based approaches. 
 
 ## Interactive Learning
 * (1971) [Procedures as a Representation for Data in a Computer Program for Understanding Natural Language](http://hci.stanford.edu/~winograd/shrdlu/AITR-235.pdf)
@@ -122,20 +132,32 @@ Some special designations for certain papers:
 
 ## Language Modelling
 * (1996) [An Empirical Study of Smoothing Techniques for Language Modelling](https://aclweb.org/anthology/P96-1041)
+  - **TLDR**: Performs an extensive survey of smoothing techniques in traditional language modelling systems.
 * (2003) [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) :bulb:
+  - **TLDR**: A seminal work in deep learning for NLP, introducing one of the earliest effective models for neural network-based language modelling. 
 * (2014) [One Billion Word Benchmark for Measuring Progress in Statistical Language Modeling](https://arxiv.org/abs/1312.3005) :vhs:
+  - **TLDR**: Introduces the Google One Billion Word language modelling benchmark. 
 * (2015) [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615)
+  - **TLDR**: Proposes a language model using convolutional neural networks that can employ character-level information, performing on-par with word-level LSTM systems. 
 * (2016) [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410)
+  - **TLDR**: Introduces a mega language model system using deep learning that uses a variety of techniques and significantly performs the SOTA on the One Billion Words Benchmark. 
 * (2018) [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) :bulb: :vhs:
+  - **TLDR**: This paper introduces ELMO, a super powerful collection of word embeddings learned from the intermediate representations of a deep bidirectional LSTM language model. Achieved SOTA on 6 diverse NLP tasks. 
+* (2018) [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) :bulb:
+  - **TLDR**: One of the most important papers of 2018, introducing BERT a powerful architecture pretrained using language modelling which is then effectively transferred to other domain-specific tasks, achieving SOTA in basically everything the authors tested on. 
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
   - **TLDR**: Introduces the LSTM recurrent unit, a cornerstone of modern neural network-based NLP
 * (2000) [Maximum Entropy Markov Models for Information Extraction and Segmentation](https://www.seas.upenn.edu/~strctlrn/bib/PDF/memm-icml2000.pdf) :bulb:
+  - **TLDR**: Introduces Markov Entropy Markov models for information extraction, a commonly used ML technique in classical NLP. 
 * (2010) [From Frequency to Meaning: Vector Space Models of Semantics](https://arxiv.org/pdf/1003.1141.pdf)
+  - **TLDR**: A wonderful survey of existing vector space models for learning semantics in text. 
 * (2012) [An Introduction to Conditional Random Fields](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
+  - **TLDR**: A nice, in-depth overview of conditional random fields, a commonly-used sequence-labelling model. 
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
   - **TLDR**: Introduces Glove word embeddings, one of the most commonly used pretrained word embedding techniques across all flavors of NLP models
 * (2014) [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) 
+  - **TLDR**: Important paper demonstrating that context-predicting distributional semantics approaches outperform count-based techniques.
 * (2015) [Improving Distributional Similarity with Lessons Learned From Word Embeddings](https://www.aclweb.org/anthology/Q15-1016) :bulb:
-* (2018) [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) :bulb:
+  - **TLDR**: Demonstrates that traditional distributional semantics techniques can be enhanced with certain design choices and hyperparameter optimizations that make their performance rival that of neural network-based embedding methods. 
