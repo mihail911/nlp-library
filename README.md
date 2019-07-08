@@ -32,29 +32,43 @@ Some special designations for certain papers:
 
 ## Coference Resolution
 * (2010) [A multi-pass sieve for coreference resolution](https://nlp.stanford.edu/pubs/conllst2011-coref.pdf) :bulb:
+  - **TLDR**: Proposes a sieve-based approach to coreference resolution that for many years (until deep learning approaches) was SOTA.
 * (2015) [Entity-Centric Coreference Resolution with Model Stacking](http://cs.stanford.edu/~kevclark/resources/clark-manning-acl15-entity.pdf) 
+  - **TLDR**: This work offers a nifty approach to building coreference chains iteratively using entity-level features.
+* (2016) [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://cs.stanford.edu/~kevclark/resources/clark-manning-acl16-improving.pdf)
+  - **TLDR**: One of the earliest effective approaches to using neural networks for coreference resolution, significantly outperforming the SOTA.
 
 ## Sentiment Analysis
 * (2012) [Baselines and Bigrams: Simple, Good Sentiment and Topic Classification](https://www.aclweb.org/anthology/P12-2018)
+  - **TLDR**: Very elegant paper, illustrating that simple Naive Bayes models with bigram features can outperform more sophisticated methods like support vector machines on tasks such as sentiment analysis.
 * (2013) [Recursive deep models for semantic compositionality over a sentiment treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) :vhs:
+  - **TLDR**: Introduces the Stanford Sentiment Treebank, a wonderful resource for fine-grained sentiment annotation on sentences. Also introduces the Recursive Neural Tensor Network, a neat linguistically-motivated deep learning architecture. 
 
 ## Natural Logic/Inference
 * (2007) [Natural Logic for Textual Inference](https://nlp.stanford.edu/pubs/natlog-wtep07.pdf)
+  - **TLDR**: Proposes a rigorous logic-based approach to the problem of textual inference called natural logic. Very cool mathematically-motivated transforms are used to deduce the relationship between phrases. 
 * (2008) [An Extended Model of Natural Logic](dl.acm.org/citation.cfm?id=1693772)
+  - **TLDR**: Extends previous work on natural logic for inference, adding phenomena such as semantic exclusion and implicativity to enhance the premise-hypothesis transform process.
 * (2014) [Recursive Neural Networks Can Learn Logical Semantics](https://arxiv.org/abs/1406.1827)
+  - **TLDR**: Demonstrates that deep learning architectures such as neural tensor networks can effectively be applied to natural language inference. 
 * (2015) [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf) :vhs:
+  - **TLDR**: Introduces the Stanford Natural Language Inference corpus, a wonderful NLI resource larger by two orders of magnitude over previous datasets. 
 
 ## Machine Translation
 * (1993) [The Mathematics of Statistical Machine Translation](www.aclweb.org/anthology/J93-2003) :bulb:
+  - **TLDR**: Introduces the IBM machine translation models, several seminal models in statistical MT. 
 * (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf) :vhs:
+  - **TLDR**: Proposes BLEU, the defacto evaluation technique used for machine translation (even today!)
 * (2003) [Statistical Phrase-Based Translation](http://dl.acm.org/citation.cfm?id=1073462)
-* (2011) [Statistical Machine Translation: IBM Models 1 and 2](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf)
+  - **TLDR**: Introduces a phrase-based translation model for MT, doing nice analysis that demonstrates why phrase-based models outperform word-based ones. 
 * (2014) [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) :bulb:
+  - **TLDR**: Introduces the sequence-to-sequence neural network architecture. While only applied to MT in this paper, it has since become one of the cornerstone architectures of modern natural language processing. 
 * (2015) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) :bulb:
 * (2015) [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 * (2016) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf)
 * (2016) [Pointing the Unknown Words](www.aclweb.org/anthology/P16-1014)
-* (2016) [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+* (2016) [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) 
+  - **TLDR**: A wonderful case-study demonstrating what a production-capacity machine translation system (in this case that of Google) looks like. 
 
 ## Semantic Parsing
 * (2013) [Semantic Parsing on Freebase from Question-Answer Pairs](www.aclweb.org/anthology/D13-1160) :bulb: :vhs:
