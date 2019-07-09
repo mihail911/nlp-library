@@ -161,3 +161,5 @@ Some special designations for certain papers:
   - **TLDR**: Important paper demonstrating that context-predicting distributional semantics approaches outperform count-based techniques.
 * (2015) [Improving Distributional Similarity with Lessons Learned From Word Embeddings](https://www.aclweb.org/anthology/Q15-1016) :bulb:
   - **TLDR**: Demonstrates that traditional distributional semantics techniques can be enhanced with certain design choices and hyperparameter optimizations that make their performance rival that of neural network-based embedding methods. 
+* (2019) [Analogies Explained: Towards Understanding Word Embeddings](https://arxiv.org/pdf/1901.09813.pdf)
+  - **TLDR**: Very nice work providing a mathematical formalism for understanding some of the paraphrasing properties of modern word embeddings.
