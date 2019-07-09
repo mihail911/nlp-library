@@ -55,9 +55,9 @@ Some special designations for certain papers:
   - **TLDR**: Introduces the Stanford Natural Language Inference corpus, a wonderful NLI resource larger by two orders of magnitude over previous datasets. 
 
 ## Machine Translation
-* (1993) [The Mathematics of Statistical Machine Translation](www.aclweb.org/anthology/J93-2003) :bulb:
+* (1993) [The Mathematics of Statistical Machine Translation](https://www.aclweb.org/anthology/J93-2003) :bulb:
   - **TLDR**: Introduces the IBM machine translation models, several seminal models in statistical MT. 
-* (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](www.aclweb.org/anthology/P02-1040.pdf) :vhs:
+* (2002) [BLEU: A Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf) :vhs:
   - **TLDR**: Proposes BLEU, the defacto evaluation technique used for machine translation (even today!)
 * (2003) [Statistical Phrase-Based Translation](http://dl.acm.org/citation.cfm?id=1073462)
   - **TLDR**: Introduces a phrase-based translation model for MT, doing nice analysis that demonstrates why phrase-based models outperform word-based ones. 
@@ -69,7 +69,7 @@ Some special designations for certain papers:
   - **TLDR**: Introduces two new attention mechanisms for MT, using them to achieve SOTA over existing neural MT systems.
 * (2016) [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf)
   - **TLDR**: Introduces byte pair encoding, an effective technique for allowing neural MT systems to handle (more) open-vocabulary translation.
-* (2016) [Pointing the Unknown Words](www.aclweb.org/anthology/P16-1014)
+* (2016) [Pointing the Unknown Words](https://www.aclweb.org/anthology/P16-1014)
   - **TLDR**: Proposes a copy-mechanism for allowing MT systems to more effectively copy words from a source context sequence.
 * (2016) [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) 
   - **TLDR**: A wonderful case-study demonstrating what a production-capacity machine translation system (in this case that of Google) looks like. 
