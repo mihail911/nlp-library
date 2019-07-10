@@ -143,8 +143,10 @@ Some special designations for certain papers:
   - **TLDR**: Introduces a mega language model system using deep learning that uses a variety of techniques and significantly performs the SOTA on the One Billion Words Benchmark. 
 * (2018) [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) :bulb: :vhs:
   - **TLDR**: This paper introduces ELMO, a super powerful collection of word embeddings learned from the intermediate representations of a deep bidirectional LSTM language model. Achieved SOTA on 6 diverse NLP tasks. 
-* (2018) [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) :bulb:
-  - **TLDR**: One of the most important papers of 2018, introducing BERT a powerful architecture pretrained using language modelling which is then effectively transferred to other domain-specific tasks, achieving SOTA in basically everything the authors tested on. 
+* (2018) [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) :bulb:
+  - **TLDR**: One of the most important papers of 2018, introducing BERT a powerful architecture pretrained using language modelling which is then effectively transferred to other domain-specific tasks.
+* (2019) [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) :bulb:
+  - **TLDR**: Generalized autoregressive pretraining method that improves upon BERT by maximizing the expected likelihood over all permutations of the factorization order.
 
 ## Miscellanea
 * (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
