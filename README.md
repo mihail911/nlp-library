@@ -157,6 +157,8 @@ Some special designations for certain papers:
   - **TLDR**: A wonderful survey of existing vector space models for learning semantics in text. 
 * (2012) [An Introduction to Conditional Random Fields](http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
   - **TLDR**: A nice, in-depth overview of conditional random fields, a commonly-used sequence-labelling model. 
+* (2013) [Distributed Representation of Words and Phrases and Their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  - **TLDR** Introduced word2vec, a collection of distributed vector representations that have been commonly used for initializing word embeddings in basically every NLP architecture of the last five years. :bulb: :vhs:
 * (2014) [Glove: Global vectors for word representation](https://nlp.stanford.edu/pubs/glove.pdf) :bulb: :vhs:
   - **TLDR**: Introduces Glove word embeddings, one of the most commonly used pretrained word embedding techniques across all flavors of NLP models
 * (2014) [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023) 
