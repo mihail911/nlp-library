@@ -21,6 +21,8 @@ Some special designations for certain papers:
 ## Parsing
 * (2003) [Accurate unlexicalized parsing](https://people.eecs.berkeley.edu/~klein/papers/unlexicalized-parsing.pdf) :bulb:
   - **TLDR**: Beautiful paper demonstrating that unlexicalized probabilistic context free grammars can exceed the performance of lexicalized PCFGs.
+* (2006) [Learning Accurate, Compact, and Interpretable Tree Annotation](https://pdfs.semanticscholar.org/d84b/9507ff9687a900fde451f27106d930c1b838.pdf)
+  - **TLDR**: Fascinating result showing that using expectation-maximization you can automatically learn accurate and compact latent nonterminal symbols for tree annotation, achieving SOTA. 
 * (2014) [A Fast and Accurate Dependency Parser using Neural Networks](cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
   - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
 
