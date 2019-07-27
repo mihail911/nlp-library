@@ -25,6 +25,8 @@ Some special designations for certain papers:
   - **TLDR**: Fascinating result showing that using expectation-maximization you can automatically learn accurate and compact latent nonterminal symbols for tree annotation, achieving SOTA. 
 * (2014) [A Fast and Accurate Dependency Parser using Neural Networks](cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
   - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
+* (2015) [Transition Based Dependency Parsing with Stack Long Short Term Memory](https://arxiv.org/pdf/1505.08075.pdf)
+  - **TLDR**: Presents stack LSTMs, a neural parser that successfully neuralizes the traditional push-pop operations of transition-based dependency parsers, achieve SOTA in the process. 
 
 ## Named Entity Recognition
 * (2005) [Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling](http://nlp.stanford.edu/~manning/papers/gibbscrf3.pdf)
