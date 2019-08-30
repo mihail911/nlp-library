@@ -23,7 +23,7 @@ Some special designations for certain papers:
   - **TLDR**: Beautiful paper demonstrating that unlexicalized probabilistic context free grammars can exceed the performance of lexicalized PCFGs.
 * (2006) [Learning Accurate, Compact, and Interpretable Tree Annotation](https://pdfs.semanticscholar.org/d84b/9507ff9687a900fde451f27106d930c1b838.pdf)
   - **TLDR**: Fascinating result showing that using expectation-maximization you can automatically learn accurate and compact latent nonterminal symbols for tree annotation, achieving SOTA. 
-* (2014) [A Fast and Accurate Dependency Parser using Neural Networks](cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
+* (2014) [A Fast and Accurate Dependency Parser using Neural Networks](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
   - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
 * (2015) [Transition Based Dependency Parsing with Stack Long Short Term Memory](https://arxiv.org/pdf/1505.08075.pdf)
   - **TLDR**: Presents stack LSTMs, a neural parser that successfully neuralizes the traditional push-pop operations of transition-based dependency parsers, achieve SOTA in the process. 
@@ -51,7 +51,7 @@ Some special designations for certain papers:
 ## Natural Logic/Inference
 * (2007) [Natural Logic for Textual Inference](https://nlp.stanford.edu/pubs/natlog-wtep07.pdf)
   - **TLDR**: Proposes a rigorous logic-based approach to the problem of textual inference called natural logic. Very cool mathematically-motivated transforms are used to deduce the relationship between phrases. 
-* (2008) [An Extended Model of Natural Logic](dl.acm.org/citation.cfm?id=1693772)
+* (2008) [An Extended Model of Natural Logic](https://dl.acm.org/citation.cfm?id=1693772)
   - **TLDR**: Extends previous work on natural logic for inference, adding phenomena such as semantic exclusion and implicativity to enhance the premise-hypothesis transform process.
 * (2014) [Recursive Neural Networks Can Learn Logical Semantics](https://arxiv.org/abs/1406.1827)
   - **TLDR**: Demonstrates that deep learning architectures such as neural tensor networks can effectively be applied to natural language inference. 
@@ -79,7 +79,7 @@ Some special designations for certain papers:
   - **TLDR**: A wonderful case-study demonstrating what a production-capacity machine translation system (in this case that of Google) looks like. 
 
 ## Semantic Parsing
-* (2013) [Semantic Parsing on Freebase from Question-Answer Pairs](www.aclweb.org/anthology/D13-1160) :bulb: :vhs:
+* (2013) [Semantic Parsing on Freebase from Question-Answer Pairs](https://aclweb.org/anthology/D13-1160) :bulb: :vhs:
   - **TLDR**: Proposes an elegant technique for semantic parsing that learns directly from question-answer pairs, without the need for annotated logical forms, allowing the system to scale up to Freebase. 
 * (2014) [Semantic Parsing via Paraphrasing](http://aclweb.org/anthology/P14-1133)
   - **TLDR**: Develops a unique paraphrase model for learning appropriate candidate logical forms from question-answer pairs, improving SOTA on existing Q/A datasets. 
@@ -153,7 +153,7 @@ Some special designations for certain papers:
   - **TLDR**: Generalized autoregressive pretraining method that improves upon BERT by maximizing the expected likelihood over all permutations of the factorization order.
 
 ## Miscellanea
-* (1997) [Long Short-Term Memory](www.bioinf.jku.at/publications/older/2604.pdf) :bulb:
+* (1997) [Long Short-Term Memory](https://bioinf.jku.at/publications/older/2604.pdf) :bulb:
   - **TLDR**: Introduces the LSTM recurrent unit, a cornerstone of modern neural network-based NLP
 * (2000) [Maximum Entropy Markov Models for Information Extraction and Segmentation](https://www.seas.upenn.edu/~strctlrn/bib/PDF/memm-icml2000.pdf) :bulb:
   - **TLDR**: Introduces Markov Entropy Markov models for information extraction, a commonly used ML technique in classical NLP. 
