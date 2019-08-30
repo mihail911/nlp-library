@@ -23,7 +23,7 @@ Some special designations for certain papers:
   - **TLDR**: Beautiful paper demonstrating that unlexicalized probabilistic context free grammars can exceed the performance of lexicalized PCFGs.
 * (2006) [Learning Accurate, Compact, and Interpretable Tree Annotation](https://pdfs.semanticscholar.org/d84b/9507ff9687a900fde451f27106d930c1b838.pdf)
   - **TLDR**: Fascinating result showing that using expectation-maximization you can automatically learn accurate and compact latent nonterminal symbols for tree annotation, achieving SOTA. 
-* (2014) [A Fast and Accurate Dependency Parser using Neural Networks](https://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
+* (2014) [A Fast and Accurate Dependency Parser using Neural Networks](https://nlp.stanford.edu/pubs/emnlp2014-depparser.pdf)
   - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
 * (2015) [Transition Based Dependency Parsing with Stack Long Short Term Memory](https://arxiv.org/pdf/1505.08075.pdf)
   - **TLDR**: Presents stack LSTMs, a neural parser that successfully neuralizes the traditional push-pop operations of transition-based dependency parsers, achieve SOTA in the process. 
