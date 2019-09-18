@@ -1,7 +1,7 @@
 # nlp-library
 This is a curated list of papers that I have encountered in some capacity and deem worth including in the NLP practitioner's library. Some papers may appear in multiple sub-categories, if they don't fit easily into one of the boxes.
 
-**PRs are absolutely welcome!**
+**PRs are absolutely welcome!** Direct any correspondence/questions to [@mihail_eric](https://twitter.com/mihail_eric).
 
 Some special designations for certain papers:
 
@@ -25,6 +25,8 @@ Some special designations for certain papers:
   - **TLDR**: Fascinating result showing that using expectation-maximization you can automatically learn accurate and compact latent nonterminal symbols for tree annotation, achieving SOTA. 
 * (2014) [A Fast and Accurate Dependency Parser using Neural Networks](https://nlp.stanford.edu/pubs/emnlp2014-depparser.pdf)
   - **TLDR**: Very important work ushering in a new wave of neural network-based parsing architectures, achieving SOTA performance as well as blazing parsing speeds. 
+* (2014) [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf)
+  - **TLDR**: One of the earliest demonstrations of the effectiveness of seq2seq architectures with attention on constituency parsing, achieving SOTA on the WSJ corpus. Also showed the importance of data augmentation for the parsing task. 
 * (2015) [Transition Based Dependency Parsing with Stack Long Short Term Memory](https://arxiv.org/pdf/1505.08075.pdf)
   - **TLDR**: Presents stack LSTMs, a neural parser that successfully neuralizes the traditional push-pop operations of transition-based dependency parsers, achieve SOTA in the process. 
 
