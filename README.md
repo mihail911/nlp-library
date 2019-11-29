@@ -49,6 +49,8 @@ Some special designations for certain papers:
   - **TLDR**: Very elegant paper, illustrating that simple Naive Bayes models with bigram features can outperform more sophisticated methods like support vector machines on tasks such as sentiment analysis.
 * (2013) [Recursive deep models for semantic compositionality over a sentiment treebank](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) :vhs:
   - **TLDR**: Introduces the Stanford Sentiment Treebank, a wonderful resource for fine-grained sentiment annotation on sentences. Also introduces the Recursive Neural Tensor Network, a neat linguistically-motivated deep learning architecture. 
+* (2014) [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+  - **TLDR**: Introduces *ParagraphVector* an unsupervised that learns fixed representations of paragraphs, using ideas inspired from *Word2Vec*. Achieves then SOTA on sentiment analysis on Stanford Sentiment Treebank and the IMDB dataset. 
 
 ## Natural Logic/Inference
 * (2007) [Natural Logic for Textual Inference](https://nlp.stanford.edu/pubs/natlog-wtep07.pdf)
