@@ -99,6 +99,8 @@ Some special designations for certain papers:
 ## Natural Language Generation/Summarization
 * (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013) :vhs:
   - **TLDR**: Introduces ROUGE, an evaluation metric for summarization that is used to this day on a variety of sequence transduction tasks. 
+* (2004) [TextRank: Bringing Order into Texts](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
+  - **TLDR**: Applying graph-based text analysis techniques based on PageRank, the authors achieve SOTA results on keyword extraction and very strong extractive summarization results in an unsupervised fashion.
 * (2015) [Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/abs/1508.01745)
   - **TLDR**: Proposes a neural natural language generator that jointly optimises sentence planning and surface realization, outperforming other systems on human eval. 
 * (2016) [Pointing the Unknown Words](https://arxiv.org/abs/1603.08148)
