@@ -52,6 +52,10 @@ Some special designations for certain papers:
 * (2014) [Distributed Representations of Sentences and Documents](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
   - **TLDR**: Introduces *ParagraphVector* an unsupervised that learns fixed representations of paragraphs, using ideas inspired from *Word2Vec*. Achieves then SOTA on sentiment analysis on Stanford Sentiment Treebank and the IMDB dataset. 
 
+* (2019) [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
+  - **TLDR**: Introduces *Unsupervised Data Augmentation*, a method for efficient training on a small number of training examples. Paper applies UDA to IMDB sentiment analysis dataset, achieving SOTA with only 30 training examples.
+
+
 ## Natural Logic/Inference
 * (2007) [Natural Logic for Textual Inference](https://nlp.stanford.edu/pubs/natlog-wtep07.pdf)
   - **TLDR**: Proposes a rigorous logic-based approach to the problem of textual inference called natural logic. Very cool mathematically-motivated transforms are used to deduce the relationship between phrases. 
