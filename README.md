@@ -101,6 +101,15 @@ Some special designations for certain papers:
   - **TLDR**: A great wake-up call paper, demonstrating that SOTA performance can be achieved on certain reading comprehension datasets using simple systems with carefully chosen features. Don't forget non-deep learning methods!
 * (2017) [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250) :vhs:
   - **TLDR**: Introduces the SQUAD dataset, a question-answering corpus that has become one of the defacto benchmarks used today. 
+* (2019) [Look before you Hop: Conversational Question Answering over Knowledge Graphs Using Judicious Context Expansion](https://arxiv.org/abs/1910.03262)
+  - **TLDR**: Introduces an unsupervised method that can answer incomplete questions over Knowledge Graph by maintaining conversation context using entities and predicates seen so far and automatically inferring missing or ambiguous pieces for follow-up questions.
+* (2019) [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering](https://arxiv.org/abs/1911.10470)
+  - **TLDR**: Introduces a new graph based recurrent retrieval approach, which retrieves reasoning paths over the Wikipedia graph to answer multi-hop open-domain questions.
+* (2019) [Abductive Commonsense Reasoning](https://arxiv.org/abs/1908.05739) 
+  - **TLDR**: Introduces a dataset and conceptualizes two new tasks for Abductive Reasoning: Abductive Natural Language Inference and Abductive Natural Language Generation.
+* (2020) [Differentiable Reasoning over a Virtual Knowledge Base](https://arxiv.org/abs/2002.10640)
+  - **TLDR**: Introduces a neural module for multi-hop Question Answering, which is differentiable and can be trained end-to-end.
+
 
 ## Natural Language Generation/Summarization
 * (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013) :vhs:
