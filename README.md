@@ -110,6 +110,24 @@ Some special designations for certain papers:
 * (2020) [Differentiable Reasoning over a Virtual Knowledge Base](https://arxiv.org/abs/2002.10640)
   - **TLDR**: Introduces a neural module for multi-hop Question Answering, which is differentiable and can be trained end-to-end.
 
+* (2020) [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/abs/2007.01282)
+  - **TLDR**: Presents an approach to open-domain question answering that relies on retrieving support passages before processing them with a generative model
+
+* (2020) [DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering](https://www.aclweb.org/anthology/2020.acl-main.411.pdf)
+  - **TLDR**: Presents a decomposed transformer, which substitutes the full self-attention with question-wide and passage-wide self-attentions in the lower layers reducing runtime compute.
+
+* (2020) [Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering](https://www.aclweb.org/anthology/2020.acl-main.414.pdf)
+  - **TLDR**: Presents introduce a simple, fast, and unsupervised iterative evidence retrieval method for multi-hop Question Answering.
+
+* (2020) [Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction](https://www.aclweb.org/anthology/2020.acl-main.21.pdf)
+  - **TLDR**: Presents approach to generate Question in semi-autoregressive using two graphs based on passages and answers.
+
+* (2020) [What Question Answering can Learn from Trivia Nerds](https://www.aclweb.org/anthology/2020.acl-main.662.pdf)
+  - **TLDR**: Presents insights into what Question Answering task can learn from Trivia tournaments.
+
+* (2020) [Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)
+  - **TLDR**: Presents an approach effective in performing multi-hop KGQA over sparse Knowledge Graphs.
+
 
 ## Natural Language Generation/Summarization
 * (2004) [ROUGE: A Package for Automatic Evaluation of Summaries](https://www.aclweb.org/anthology/W04-1013) :vhs:
@@ -122,6 +140,10 @@ Some special designations for certain papers:
   - **TLDR**: Proposes a copy-mechanism for allowing MT systems to more effectively copy words from a source context sequence.
 * (2017) [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
   - **TLDR**: This work offers an elegant soft copy mechanism, that drastically outperforms the SOTA on abstractive summarization. 
+* (2020) [A Generative Model for Joint Natural Language Understanding and Generation](https://www.aclweb.org/anthology/2020.acl-main.163.pdf)
+  - **TLDR**: This work presents a generative model which couples NLU and NLG through a shared latent variable, achieving state-of-the-art performance on two dialogue datasets with both flat and tree-structured formal representations
+* (2020) [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703.pdf)
+  - **TLDR**: This work presents a generative model which couples NLU and NLG through a shared latent variable, achieving state-of-the-art performance on two dialogue datasets with both flat and tree-structured formal representations.
 
 ## Dialogue Systems
 * (2011) [Data-drive Response Generation in Social Media](http://dl.acm.org/citation.cfm?id=2145500)
